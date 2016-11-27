@@ -4,7 +4,7 @@ Dimmer is a little free application designed to help control the brightness of y
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Dimmer does not require installation, its a portable application. Simply extract into a folder of your choice and run. The program stores its settings in an ini file in the program folder. When no longer needed, just delete the folder and you are done.
 
 ### Prerequisites
 
