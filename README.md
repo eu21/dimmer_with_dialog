@@ -1,6 +1,6 @@
-# Project Title
+# Dimmer for Linux
 
-Dimmer for Linux
+Dimmer is a little free application designed to help control the brightness of your computer screen, specially to reduce the brightness beyond what the hardware alone is capable of. This becomes very useful when you are in total darkness and the minimum brightness from your display is still too much. It can dim all screens and monitors; LCD, TFT and LED backlit types. Dimmer will not damage your screen or monitor in any way, if anything, it might actually save the backlight and consequently, energy, by making it emit less radiation. To note is the fact that most desktop screens are actually capable of reducing the brightness levels quite low, the same is not true on almost all laptop, notebook and netbook displays. Dimmer was conceived to work on all versions of  Linux OS such as Kubuntu, Fedora, Ubuntu, SUSE.
 
 ## Getting Started
 
